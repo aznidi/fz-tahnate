@@ -24,7 +24,7 @@ function RoutesComponent() {
   }, []);
 
   return (
-    <Router basename="/fz-portfolio">
+    <Router basename="/fz-tahnate">
       <ScrollToTop />
       {loading ? (
         <PuzzleLoader />
